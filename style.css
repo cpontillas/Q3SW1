@@ -1,0 +1,41 @@
+       * {
+        margin: 0px;
+        padding: 0px;
+    }
+
+    .header,
+    .footer {
+        background-color: rgba(71, 82, 89, 0.9);
+        padding: 25px;
+        text-align: center;
+    }
+
+    body {
+        background-color: #FFFFFF;
+        background-size: cover;
+        text-align: center;
+        font-family: "Rubik", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: <weight>;
+        font-style: normal;
+    }
+
+    img {
+        width: 250px;
+        border-radius: 30px;
+    }
+
+    form {
+        padding: 25px;
+    }
+
+    fieldset {
+        background-color: powderblue;
+        box-shadow: 11px 7px 2px rgba(71, 82, 89, 0.75);
+        border-radius: 10px;
+        padding: 30px;
+    }
+
+    input {
+        padding: 3px;
+    }
